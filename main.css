@@ -1,0 +1,31 @@
+html, body {
+	margin: 0;
+	padding: 0;
+  background-image:url(“background.jpg”);
+    background-repeat: no-repeat;
+	  font-family: Arial, Helvetica, sans-serif;
+	    }
+
+#navContent{
+margin:auto;	
+width:800px;
+height:400px;
+position:relative;
+overflow:hidden;
+}
+
+#topbar{
+height:50px;
+margin:auto;
+margin-top:50px;
+color:#FFF;
+font-size:36px;
+font-family:Arial, Helvetica, sans-serif;
+width:800px;
+border-bottom:solid white 1px;
+}
+ 
+.spacer{
+height:30px;
+}
+
